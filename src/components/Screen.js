@@ -8,27 +8,16 @@ class Screen extends React.Component {
   }
 
   render() {
-    const { total, operation, next } = this.props;
+    const { cName, result } = this.props;
     return (
-      <div className="screen">
-        {total}
-        {operation}
-        {next}
-      </div>
+      <div className={cName}>{result}</div>
     );
   }
 }
 
 Screen.propTypes = {
-  next: PropTypes.string,
-  total: PropTypes.number,
-  operation: PropTypes.number,
-};
-
-Screen.defaultProps = {
-  next: null,
-  total: 0,
-  operation: null,
+  cName: PropTypes.string.isRequired,
+  result: PropTypes.number.isRequired,
 };
 
 export default Screen;
