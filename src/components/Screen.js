@@ -9,9 +9,7 @@ class Screen extends React.Component {
 
   render() {
     const { cName, result } = this.props;
-    return (
-      <div className={cName}>{result}</div>
-    );
+    return <div className={cName}>{result}</div>;
   }
 }
 

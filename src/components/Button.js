@@ -4,13 +4,13 @@ import PropTypes from 'prop-types';
 class Button extends React.Component {
   constructor(props) {
     super(props);
-    this.state = null;
+    this.state = {};
   }
 
   render() {
-    const { bgColor, btnRef, handleClick } = this.props;
+    const { bgColor, btnRef } = this.props;
     return (
-      <button type="button" className={bgColor} onClick={handleClick}>
+      <button type="button" className={bgColor}>
         {btnRef}
       </button>
     );
@@ -20,7 +20,6 @@ class Button extends React.Component {
 Button.propTypes = {
   bgColor: PropTypes.string.isRequired,
   btnRef: PropTypes.string.isRequired,
-  handleClick: PropTypes.func.isRequired,
 };
 
 export default Button;
