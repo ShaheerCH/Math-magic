@@ -8,7 +8,7 @@
 - JavaScript
 - Node.js
 - npm
-- webpack
+- Webpack
 - babel
 
 ## Getting Started
