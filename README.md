@@ -7,7 +7,7 @@
 - React
 - JavaScript
 - Node.js
-- npm
+- Npm
 - Webpack
 - babel
 
