@@ -9,7 +9,7 @@
 - Node.js
 - Npm
 - Webpack
-- babel
+- Babel
 
 ## Getting Started
 
