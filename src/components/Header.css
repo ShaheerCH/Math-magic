@@ -1,0 +1,19 @@
+h1 {
+  width: 23vw;
+  margin-right: 46vw;
+  font-size: 1.9rem;
+}
+
+header {
+  width: 82vw;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+nav {
+  width: 25vw;
+  display: flex;
+  justify-content: space-between;
+  /* stylelint-disable-next-line no-missing-end-of-source-newline */
+}
