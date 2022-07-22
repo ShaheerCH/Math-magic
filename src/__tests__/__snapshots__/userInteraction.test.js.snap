@@ -1,0 +1,235 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`home view should render correctly 1`] = `
+Array [
+  " ",
+  <header>
+    <h1>
+      Math Magicians
+    </h1>
+    <nav>
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+      <a
+        href="/Calculator"
+        onClick={[Function]}
+      >
+        Calculator
+      </a>
+      <a
+        href="/Quote"
+        onClick={[Function]}
+      >
+        Quote
+      </a>
+    </nav>
+  </header>,
+  <main
+    className="home"
+  >
+    <h2>
+      Welcome to our page!
+    </h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt quis elit nec finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean cursus elit eget sem eleifend scelerisque nec et ex. Morbi non odio consequat, pellentesque neque vel, finibus ipsum. Maecenas vestibulum nisl tellus, sed scelerisque turpis tempor eu. Donec tempor nibh eget ligula accumsan pellentesque. Curabitur id convallis nulla. Praesent lectus tellus, vulputate eget blandit eget, consequat sit amet velit. Curabitur lectus magna, rutrum eu ante quis, ullamcorper vehicula nisi.
+    </p>
+    <p>
+      Anim esse duis proident dolor. Eiusmod enim cupidatat nostrud quis et minim exercitation in incididunt amet esse aute. Sunt nostrud reprehenderit est reprehenderit commodo. Aute cillum aliquip enim occaecat amet. Excepteur minim mollit laborum fugiat. Esse sint nisi in ex consequat laborum culpa. Nostrud duis do dolore esse ullamco non velit ullamco deserunt sint.
+    </p>
+  </main>,
+  " ",
+]
+`;
+
+exports[`home view should render correctly 2`] = `
+Array [
+  " ",
+  <header>
+    <h1>
+      Math Magicians
+    </h1>
+    <nav>
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+      <a
+        href="/Calculator"
+        onClick={[Function]}
+      >
+        Calculator
+      </a>
+      <a
+        href="/Quote"
+        onClick={[Function]}
+      >
+        Quote
+      </a>
+    </nav>
+  </header>,
+  <main
+    className="calc"
+  >
+    <h2>
+      Let's do some math!
+    </h2>
+    <article
+      className="calculator"
+    >
+      <div
+        className="screen"
+      >
+        0
+      </div>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="btn-orange"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="btn-orange"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="btn-orange"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="btn-orange"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+      <button
+        className="btn-gray zero"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="btn-gray"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="btn-orange"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </article>
+  </main>,
+  " ",
+]
+`;
+
+exports[`navbar component should render correctly 1`] = `
+<div
+  className="screen"
+>
+  0
+</div>
+`;
