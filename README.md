@@ -10,6 +10,7 @@
 - Npm
 - Webpack
 - Babel
+  -Jest
 
 ## Getting Started
 

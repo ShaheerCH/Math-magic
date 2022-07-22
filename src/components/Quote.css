@@ -1,0 +1,9 @@
+.quote p {
+  width: 60vw;
+  font-size: 1.7rem;
+}
+
+.quote {
+  display: flex;
+  justify-content: center;
+}
