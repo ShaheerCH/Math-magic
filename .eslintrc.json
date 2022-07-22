@@ -23,6 +23,6 @@
   "ignorePatterns": [
     "dist/",
     "build/",
-    "src/__test__/userInteraction.test.js"
+    "__test__/"
   ]
 }
