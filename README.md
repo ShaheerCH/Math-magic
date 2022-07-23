@@ -18,7 +18,7 @@ To get a copy of this project running on your local computer, do the followings:
 ### Prerequisites
 
 - Must have a working computer
-- A Web-Browser installed (Chrome - Recommended)
+- A Web-Browser installed (Chrome recommended)
 
 ### Setup
 
